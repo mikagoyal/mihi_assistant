@@ -1,0 +1,5 @@
+TIME = 0.5
+N = 1
+K = 2
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 0
